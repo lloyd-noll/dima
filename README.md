@@ -15,9 +15,11 @@ git clone https://github.com/lloyd-noll/dima
 cd dima
 ```
 Install additional dependancies by running [setup.sh](scripts/setup.sh).
+
 `bash scripts/setup.sh`
 
 Make the programs.
+
 `make`
 
 The directory `bin` now contains the executeables. Add them to your `PATH`.
